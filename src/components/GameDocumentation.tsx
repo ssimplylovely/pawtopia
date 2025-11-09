@@ -16,7 +16,7 @@ import {
 
 export default function GameDocumentation() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-green-50 via-green-100 to-emerald-200 text-gray-900">
+    <div className="min-h-screen bg-green-100 bg-gradient-to-b from-green-50 via-green-100 to-emerald-200 text-gray-900">
       <motion.div
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
