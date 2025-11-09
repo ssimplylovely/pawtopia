@@ -33,7 +33,7 @@ import { BattleScreen } from './components/BattleScreen';
 import { RewardNotification } from './components/RewardNotification';
 import { PetCollection } from './components/PetCollection';
 import { ActivePetIndicator } from './components/ActivePetIndicator';
-import { GameDocumentation } from './components/GameDocumentation';
+import GameDocumentation from './components/GameDocumentation';
 import { HomeScreen } from './components/HomeScreen';
 import { toast } from 'sonner@2.0.3';
 import { Toaster } from './components/ui/sonner';
